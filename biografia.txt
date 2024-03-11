@@ -1,4 +1,20 @@
 BIOGRAFÍA DE ROBIN DANIEL JIMENEZ FLOREZ
 
 Nacido en Fonseca, La Guajira el cinco de enero de dosmil cinco (fecha sin dinero(nací humilde)) un joven que desde pequeño tenía un pensamiento mediocre sobre si mismo, 
-con puro esfuerzo cambiaría su manera de pensar y se convertiría en una de las personas mas influyentes de su país
+con puro esfuerzo cambiaría su manera de pensar y se convertiría en una de las personas mas influyentes de su país.
+
+Empezando desde el inicio, Robin hizo sus estudios academicos en la Institución Educativa Juan Jacobo Aragón (Colegio Nacional de Varones), donde cursaría desde primer hasta onceavo grado.
+Aunque habían buenos momentos, los malos momentos eran los mas recurrentes, en parte debido al pensamiento del pequeño y redondo Robin.
+
+El joven Robin desde noveno grado se había interesado por la Ingeniería de sistemas (puramente por dinero) junto a un compañero de la infancia. La decisión anterior tendría repercusión su vida futura.
+
+Sin embargo, la Ingeniería de Sistemas no fue lo unico a lo que quería dedicarse, surgió cierta pasión por la arquitectura, también destacar que de pequeño quería vivir de una heladería.
+Por diversos motivos, sintió que su vida no tendría mucha importancia sino se dedicaba a la programación aunque no sabía bien de que se tratase, pues muchas veces intentó valerse por si mismo en el mundo de la programación, todas
+Esas veces sin éxito alguno. Aún antes de ingresar a la universidad (en la cual solo duró un año, un año perdido) ya sentía que no servía para la progamación, pues siempre salía sin exito y frustrado.
+Lo anterior, tenía que ver con la forma de pensar del joven, pues no le dedicaba el tiempo que requiere la programación (el cual es mucho, requiere de mucha constancia), entonces se resignó a aprender todo en la universidad, grave error.
+
+Se preguntarán, ¿por que error? pues el joven Robin carecía de conocimientos logico - matematicos (que debía adquirir en secundaria, pero que la pandemia lo imposibilitó), la universidad lo aplastó casi al completo.
+La gente molesta con la que vivía como foraneo, la cual no lo dejaba ni estudiar ni dormir, varios profesores que en lugar de ayudarlo, lo retrasaban, al cabo de un año optó por abandonar la universidad a la edad de 18 años.
+
+Lo bueno de la vida del joven Robin comienza luego de la universidad, el contaba con un plan para seguir adelante, sin embargo, se le presentaría una oportunidad que cambiaría su vida
+para continuar con la biografía, el repositorio debe alcanzar 5 estrellas, ten un buen día.
